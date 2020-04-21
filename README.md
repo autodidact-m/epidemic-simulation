@@ -18,3 +18,4 @@ Change variables at the level of personal behavior: What happens if we all go sh
 Give people an age distribution, and then also include hospitals and a limited hospital capacity. Have people start dying according to a mortality rate determined by their age and whether or not they have access to hospital care.
 Batch simulation mode- turn off the animation and run the simulation in the background, aggregating thousands of trials into average result graphs.
 Also read this article, to get a better idea : https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+Another visualisation/simulation inputs from here: http://gabgoh.github.io/COVID/index.html
