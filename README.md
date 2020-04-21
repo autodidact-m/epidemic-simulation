@@ -16,4 +16,5 @@ I hope you enjoy and learn something from this interactive simulation. I would l
 Different types of communities with their own schedules, like small homes, schools, churches, grocery stores, workplaces, etc. See the effects of public health policy decisions like closing the schools but not closing the workplaces!
 Change variables at the level of personal behavior: What happens if we all go shopping once every two weeks instead of once per week? What happens if 90% of people stay home but 10% disregard stay at home orders to go out and socialize?
 Give people an age distribution, and then also include hospitals and a limited hospital capacity. Have people start dying according to a mortality rate determined by their age and whether or not they have access to hospital care.
-Batch simulation mode- turn off the animation and run the simulation in the background, aggregating thousands of trials into average result graphs
+Batch simulation mode- turn off the animation and run the simulation in the background, aggregating thousands of trials into average result graphs.
+Also read this article, to get a better idea : https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
